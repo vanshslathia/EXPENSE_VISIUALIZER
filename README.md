@@ -1,10 +1,10 @@
-# 📊 Expensync — Personal Finance Tracker
+# 📊 EXPENSE_VISIUALIZER — Personal Finance Tracker
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 ![Built With](https://img.shields.io/badge/Built%20with-MERN%20Stack-blue)
 
-#### Expensync is a full-stack personal finance tracker designed to help users manage their income, expenses, and budgets in a simple yet powerful way. The platform provides a real-time overview of financial health through dashboards, interactive charts, and category-wise transaction tracking. Users can easily add, edit, and delete transactions, set budget goals, and analyze spending patterns, all from a single intuitive interface.
+#### EXPENSE_VISIUALIZER is a full-stack personal finance tracker designed to help users manage their income, expenses, and budgets in a simple yet powerful way. The platform provides a real-time overview of financial health through dashboards, interactive charts, and category-wise transaction tracking. Users can easily add, edit, and delete transactions, set budget goals, and analyze spending patterns, all from a single intuitive interface.
 
 💡 What is an Expense Tracker App? An Expense Tracker App is a personal finance management tool that helps users record, monitor, and analyze their income and expenses. Its main goal is to make people aware of where their money goes and help them make smarter financial decisions.
 
@@ -159,3 +159,4 @@ Hope it helps you manage money better and plan smarter 💸
 If you found this useful, please ⭐ the repo and share it!
 
 > _"Budgeting isn't about limiting yourself — it's about making room for the things that matter most."_
+
